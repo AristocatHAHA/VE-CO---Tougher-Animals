@@ -1,5 +1,6 @@
 # VE-CO---Tougher-Animals
-Best animals
+
+Vanilla Enhanced - Combat Overhaul
 
 - Hit point of most body parts of animals has been increased except head and organs.
 
